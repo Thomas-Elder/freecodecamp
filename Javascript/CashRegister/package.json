@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "cashregister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CashRegister.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  }
+}
